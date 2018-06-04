@@ -7,7 +7,7 @@ Revised weekly: _4 June 2018_
   * [Revised Proposal](https://docs.google.com/document/d/1_IJh6lp64piz9FH1lWjO1PxTC0bARDJbOLj61_otViA/edit)
 * Are We Triaged Yet
   * [Repository](https://github.com/emceeaich/are-we-triaged-yet)
-  * Change update frequency to daily at midnight UTC
+  * ~Change update frequency to daily at midnight UTC~
   * P1 affecting or may affect query
 * Triagebot
   * Update query for UNVERIFIED bugs
