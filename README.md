@@ -8,7 +8,8 @@ Revised weekly: _4 June 2018_
 * Are We Triaged Yet
   * [Repository](https://github.com/emceeaich/are-we-triaged-yet)
   * ~Change update frequency to daily at midnight UTC~
-  * P1 affecting or may affect query
+  * ~[Query language pull request](https://github.com/emceeaich/are-we-triaged-yet/pull/36)~
+  * [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
 * Triagebot
   * Update query for UNVERIFIED bugs
 * BMO Abuse Handling
