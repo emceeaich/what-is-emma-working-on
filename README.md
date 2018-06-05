@@ -10,6 +10,7 @@ Revised weekly: _4 June 2018_
   * ~[Change update frequency to daily at midnight UTC](https://github.com/emceeaich/are-we-triaged-yet/issues/35)~
   * ~[Query language pull request](https://github.com/emceeaich/are-we-triaged-yet/pull/36)~
   * [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
+  * [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)? 
 * Triagebot
   * Update query for UNVERIFIED bugs
 * BMO Abuse Handling
@@ -18,8 +19,6 @@ Revised weekly: _4 June 2018_
 
 * Using Machine Learning to categorize Firefox::Untriaged
   * Project document TBD
-* Are We Triaged Yet
-  * [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)? 
 * Inactive bugs
   * On hold
 
