@@ -17,6 +17,8 @@ Revised weekly: _4 June 2018_
 
 * Using Machine Learning to categorize Firefox::Untriaged
   * Project document TBD
+* Are We Triaged Yet
+  * [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)? 
 * Inactive bugs
   * On hold
 
