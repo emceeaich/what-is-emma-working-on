@@ -1,6 +1,6 @@
 # Emma's Public Worklist
 
-Revised weekly: _4 June 2018_
+_Week of 4 June 2018_
 
 * Feature Flags for Firefox
   * [Current Proposal](https://github.com/mozilla/bug-handling/blob/master/policy/feature-flags.md)
