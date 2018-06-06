@@ -3,24 +3,24 @@
 _Week of 4 June 2018_
 
 * Feature Flags for Firefox
-  * [Current Proposal](https://github.com/mozilla/bug-handling/blob/master/policy/feature-flags.md)
-  * [Revised Proposal](https://docs.google.com/document/d/1_IJh6lp64piz9FH1lWjO1PxTC0bARDJbOLj61_otViA/edit)
+  - [x] :page_facing_up: [Current Proposal](https://github.com/mozilla/bug-handling/blob/master/policy/feature-flags.md)
+  - [ ] :page_facing_up: [Revised Proposal](https://docs.google.com/document/d/1_IJh6lp64piz9FH1lWjO1PxTC0bARDJbOLj61_otViA/edit)
 * Are We Triaged Yet
-  * ~[Change update frequency to daily at midnight UTC](https://github.com/emceeaich/are-we-triaged-yet/issues/35)~
-  * ~[Query language pull request](https://github.com/emceeaich/are-we-triaged-yet/pull/36)~
-  * [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
-  * [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)? 
+  - [x] [Change update frequency to daily at midnight UTC](https://github.com/emceeaich/are-we-triaged-yet/issues/35)
+  - [x] [Query language pull request](https://github.com/emceeaich/are-we-triaged-yet/pull/36)
+  - [ ] [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
+  - [ ] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)? 
 * Triagebot
-  * ~Update query for UNVERIFIED bugs~
-* BMO Abuse Handling
+  - [x] Update query for UNVERIFIED bugs 
 
 ## Immediate Backlog
 
-* Using Machine Learning to categorize Firefox::Untriaged
-  * Project document TBD
+* BMO Abuse Handling
+* Using Machine Learning to categorize Firefox::Untriaged :robot:
+  - [ ] Project document TBD
 * Are We Triaged Yet
-  * [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
-* Firefox for Android Triage
+  - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
+* Firefox for Android Triage :android:
 * Inactive bugs
   * On hold
 
