@@ -3,8 +3,8 @@
 _Week of 4 June 2018_
 
 * Feature Flags for Firefox
-  - [x] :page_facing_up: [Current Proposal](https://github.com/mozilla/bug-handling/blob/master/policy/feature-flags.md)
-  - [ ] :page_facing_up: [Revised Proposal](https://docs.google.com/document/d/1_IJh6lp64piz9FH1lWjO1PxTC0bARDJbOLj61_otViA/edit)
+  - [x] [Current Proposal](https://github.com/mozilla/bug-handling/blob/master/policy/feature-flags.md)
+  - [ ] [Revised Proposal](https://docs.google.com/document/d/1_IJh6lp64piz9FH1lWjO1PxTC0bARDJbOLj61_otViA/edit)
 * Are We Triaged Yet
   - [x] [Change update frequency to daily at midnight UTC](https://github.com/emceeaich/are-we-triaged-yet/issues/35)
   - [x] [Query language pull request](https://github.com/emceeaich/are-we-triaged-yet/pull/36)
@@ -16,7 +16,7 @@ _Week of 4 June 2018_
 ## Immediate Backlog
 
 * BMO Abuse Handling
-* Using Machine Learning to categorize Firefox::Untriaged :robot:
+* Using Machine Learning to categorize Firefox::Untriaged 
   - [ ] Project document TBD
 * Are We Triaged Yet
   - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
