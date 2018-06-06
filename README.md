@@ -11,13 +11,15 @@ _Week of 4 June 2018_
   * [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
   * [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)? 
 * Triagebot
-  * Update query for UNVERIFIED bugs
+  * ~Update query for UNVERIFIED bugs~
 * BMO Abuse Handling
 
 ## Immediate Backlog
 
 * Using Machine Learning to categorize Firefox::Untriaged
   * Project document TBD
+* Are We Triaged Yet
+  * [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
 * Inactive bugs
   * On hold
 
