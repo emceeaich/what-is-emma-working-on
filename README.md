@@ -17,10 +17,11 @@ _Week of 4 June 2018_
 
 * BMO Abuse Handling
 * Using Machine Learning to categorize Firefox::Untriaged 
+  - [ ] Review API
   - [ ] Project document TBD
 * Are We Triaged Yet
   - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
-* Firefox for Android Triage :android:
+* Firefox for Android Triage
 * Inactive bugs
   * On hold
 
