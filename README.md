@@ -22,6 +22,9 @@ _Week of 4 June 2018_
 * Are We Triaged Yet
   - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
 * Firefox for Android Triage
+* MozFest Proposals
+  - [ ] Adventures in renaming workshop
+  - [ ] Dynamic/Fluid name badges
 * Inactive bugs
   * On hold
 
