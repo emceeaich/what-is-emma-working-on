@@ -13,6 +13,8 @@ _Week of 4 June 2018_
 * Firefox for Android Triage
   - [x] Review state of bugs
 * Are We Triaged Yet
+  - [ ] Impact analysis of triage query changes
+  - [ ] Draft communication on changes
   - [x] [Change update frequency to daily at midnight UTC](https://github.com/emceeaich/are-we-triaged-yet/issues/35)
   - [x] [Query language pull request](https://github.com/emceeaich/are-we-triaged-yet/pull/36)
 * Triagebot
