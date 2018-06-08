@@ -7,9 +7,9 @@ _Week of 4 June 2018_
   - [x] [Revised Proposal](https://docs.google.com/document/d/1_IJh6lp64piz9FH1lWjO1PxTC0bARDJbOLj61_otViA/edit)
   - [ ] Action plan
 * Using Machine Learning to categorize Firefox::Untriaged 
-  - [ ] Review API
+  - [x] Review API
 * MozFest
-  - [ ] Find replacement wrangler for Queering Mozfest space
+  - [x] Find replacement wrangler for Queering Mozfest space
 * Firefox for Android Triage
   - [x] Review state of bugs
 * Are We Triaged Yet
