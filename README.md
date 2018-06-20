@@ -17,6 +17,8 @@ _Week of 18 June 2018_
   - [ ] List of bugs filed since October '17 for review to move to GekkoView product
   - [ ] List of enhancement requests
   - [ ] Find cut-off date for stale bugs
+* ESR Support Channels
+  - [ ] Action plan
   
 ## Immediate Backlog
 
