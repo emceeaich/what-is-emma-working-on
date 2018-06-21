@@ -3,8 +3,8 @@
 _Week of 18 June 2018_
 
 * Feature Flags for Firefox
-  - [ ] Action plan
-  - [ ] Retained Display Lists
+  - [x] Action plan
+  - [x] Retained Display Lists
   - [ ] Other 'intent to deploys'
 * BMO Abuse Handling
   - [x] Meeting with CPG/Inclusion/MOC
