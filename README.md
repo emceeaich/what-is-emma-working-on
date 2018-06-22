@@ -1,5 +1,21 @@
 # Emma's Public Worklist
 
+_Week of 25 June 2018_
+
+* Feature Flags for Firefox
+  - [ ] Kickoff meeting prep
+  - [ ] Kickoff meeting
+* Firefox 63
+  - [ ] Update flags, versions, milestones for branch
+* Are We Triaged Yet
+  - [ ] **Update for Firefox 63 Branch**
+  * Undercount issue
+    - [ ] Communication on changes
+    - [ ] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
+* Firefox for Android Triage
+  - [ ] Find cut-off date for stale bugs
+  - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
+
 _Week of 18 June 2018_
 
 * Feature Flags for Firefox
@@ -23,10 +39,9 @@ _Week of 18 June 2018_
 * Performance Team 
   - [ ] Review metadata documentation
 * Using Machine Learning to categorize Firefox::Untriaged 
-  - [ ] Project document TBD
+  - [ ] Action plan
   - Further work blocked on getting Exalt's container running
 * Are We Triaged Yet
-  - [ ] **Update for Firefox 63 Branch**
   - [ ] [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
   - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
 * MozFest
@@ -35,7 +50,7 @@ _Week of 18 June 2018_
 * Inactive bugs
   - [ ] Get introduction to WPT team at W3C
 * Mozilla NPM Org
-  - [ ] Action Plan
+  - [ ] Action plan
 * ESR Support Channels
   - [ ] Action plan
 * [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
