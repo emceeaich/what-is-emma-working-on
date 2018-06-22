@@ -5,7 +5,6 @@ _Week of 18 June 2018_
 * Feature Flags for Firefox
   - [x] Action plan
   - [x] Retained Display Lists
-  - [ ] Other 'intent to deploys'
 * BMO Abuse Handling
   - [x] Meeting with CPG/Inclusion/MOC
 * Are We Triaged Yet
@@ -17,8 +16,7 @@ _Week of 18 June 2018_
   - [ ] List of bugs filed since October '17 for review to move to GekkoView product
   - [ ] List of enhancement requests
   - [ ] Find cut-off date for stale bugs
-* ESR Support Channels
-  - [ ] Action plan
+  - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
   
 ## Immediate Backlog
 
@@ -34,7 +32,13 @@ _Week of 18 June 2018_
   - [ ] Adventures in renaming workshop proposal
   - [ ] Dynamic/Fluid name badges proposal
 * Inactive bugs
-  * [ ] Get introduction to WPT team at W3C
+  - [ ] Get introduction to WPT team at W3C
+* Mozilla NPM Org
+  - [ ] Action Plan
+* ESR Support Channels
+  - [ ] Action plan
+* [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
+  - [ ] Action plan
 
 ## Ongoing
 
