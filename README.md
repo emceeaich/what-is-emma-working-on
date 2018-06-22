@@ -13,8 +13,8 @@ _Week of 18 June 2018_
     - [ ] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
 * Firefox for Android Triage
   - [x] Meet with team
-  - [ ] List of bugs filed since October '17 for review to move to GekkoView product
-  - [ ] List of enhancement requests
+  - [x] List of bugs filed since October '17 for review to move to GekkoView product
+  - [x] List of enhancement requests
   - [ ] Find cut-off date for stale bugs
   - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
   
