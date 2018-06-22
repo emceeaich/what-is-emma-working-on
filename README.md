@@ -26,6 +26,7 @@ _Week of 18 June 2018_
   - [ ] Project document TBD
   - Further work blocked on getting Exalt's container running
 * Are We Triaged Yet
+  - [ ] **Update for Firefox 63 Branch**
   - [ ] [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
   - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
 * MozFest
