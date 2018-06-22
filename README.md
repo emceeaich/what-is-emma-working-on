@@ -15,24 +15,6 @@ _Week of 25 June 2018_
 * Firefox for Android Triage
   - [ ] Find cut-off date for stale bugs
   - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
-
-_Week of 18 June 2018_
-
-* Feature Flags for Firefox
-  - [x] Action plan
-  - [x] Retained Display Lists
-* BMO Abuse Handling
-  - [x] Meeting with CPG/Inclusion/MOC
-* Are We Triaged Yet
-  * Undercount issue
-    - [ ] Communication on changes
-    - [ ] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
-* Firefox for Android Triage
-  - [x] Meet with team
-  - [x] List of bugs filed since October '17 for review to move to GekkoView product
-  - [x] List of enhancement requests
-  - [ ] Find cut-off date for stale bugs
-  - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
   
 ## Immediate Backlog
 
@@ -51,7 +33,7 @@ _Week of 18 June 2018_
   - [ ] Get introduction to WPT team at W3C
 * Mozilla NPM Org
   - [ ] Action plan
-* ESR Support Channels
+* ESR support Channels
   - [ ] Action plan
 * [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
   - [ ] Action plan
