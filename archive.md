@@ -1,3 +1,21 @@
+_Week of 18 June 2018_
+
+* Feature Flags for Firefox
+  - [x] Action plan
+  - [x] Retained Display Lists
+* BMO Abuse Handling
+  - [x] Meeting with CPG/Inclusion/MOC
+* Are We Triaged Yet
+  * Undercount issue
+    - [ ] Communication on changes
+    - [ ] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
+* Firefox for Android Triage
+  - [x] Meet with team
+  - [x] List of bugs filed since October '17 for review to move to GekkoView product
+  - [x] List of enhancement requests
+  - [ ] Find cut-off date for stale bugs
+  - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
+
 _Week of 11 June 2018_
 
 * All Hands
