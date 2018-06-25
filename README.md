@@ -6,9 +6,9 @@ _Week of 25 June 2018_
   - [ ] Kickoff meeting prep
   - [ ] Kickoff meeting
 * Firefox 63
-  - [ ] Update flags, versions, milestones for branch
+  - [x] Update flags, versions, milestones for branch
 * Are We Triaged Yet
-  - [ ] **Update for Firefox 63 Branch**
+  - [x] **Update for Firefox 63 Branch**
   * Undercount issue
     - [ ] Communication on changes
     - [ ] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
