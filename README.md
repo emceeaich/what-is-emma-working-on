@@ -18,6 +18,8 @@ _Week of 25 June 2018_
   
 ## Immediate Backlog
 
+* `backlog` flag
+  - [ ] disable in new bugs (July 2nd)
 * Performance Team 
   - [ ] Review metadata documentation
 * Using Machine Learning to categorize Firefox::Untriaged 
