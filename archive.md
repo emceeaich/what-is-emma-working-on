@@ -2,6 +2,7 @@ _Week of 25 June 2018_
 
 * Feature Tracking for Firefox
   - [x] Kickoff meeting prep
+  - [x] Start draft of policy
   - [x] Kickoff meeting
 * Firefox 63
   - [x] Update flags, versions, milestones for branch
@@ -13,6 +14,8 @@ _Week of 25 June 2018_
 * Firefox for Android Triage
   - [x] Find cut-off date for stale bugs
 * [x] :mdaly's request to move inactive bugs in DOM to P5
+* ESR support channels
+  - [x] Action plan draft
 
 _Week of 18 June 2018_
 
