@@ -4,17 +4,18 @@ _Week of 25 June 2018_
 
 * Feature Flags for Firefox
   - [x] Kickoff meeting prep
-  - [ ] Kickoff meeting
+  - [x] Kickoff meeting
 * Firefox 63
   - [x] Update flags, versions, milestones for branch
 * Are We Triaged Yet
   - [x] **Update for Firefox 63 Branch**
   * Undercount issue
     - [x] Communication on changes
-    - [ ] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
+    - [x] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
 * Firefox for Android Triage
   - [ ] Find cut-off date for stale bugs
   - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
+* [ ] :mdaly's request to move inactive bugs in DOM to P5
   
 ## Immediate Backlog
 
