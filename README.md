@@ -2,28 +2,23 @@
 
 _Week of 25 June 2018_
 
-* Feature Tracking for Firefox
-  - [x] Kickoff meeting prep
-  - [x] Kickoff meeting
-* Firefox 63
-  - [x] Update flags, versions, milestones for branch
-* Are We Triaged Yet
-  - [x] **Update for Firefox 63 Branch**
-  * Undercount issue
-    - [x] Communication on changes
-    - [x] [Update untriaged query](https://github.com/emceeaich/are-we-triaged-yet/issues/41)
-* Firefox for Android Triage
-  - [ ] Find cut-off date for stale bugs
-  - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
-* [x] :mdaly's request to move inactive bugs in DOM to P5
-  
-## Immediate Backlog
-
 * Feature Tracking For Firefox
-  - [ ] Draft Process for Eng. Leads
+  - [ ] Draft Process for Eng. Leads (July 10th)
   - [ ] Settle on scope w.r.t. mobile
 * `backlog` flag
   - [ ] disable in new bugs (July 2nd)
+* ESR support channels
+  - [ ] :mkaply review
+* Firefox for Android Triage
+  - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
+  - [ ] Move non-GeckoView bugs SV not working on to P5 (pending :shusheel's approval)
+* Security Bug Reports
+  - [ ] Evaluate options (email to :mcote)
+* Future of Version field 
+  - [ ] :sylvestre's feedback
+  
+## Immediate Backlog
+
 * Performance Team 
   - [ ] Review metadata documentation
 * Using Machine Learning to categorize Firefox::Untriaged 
@@ -37,12 +32,9 @@ _Week of 25 June 2018_
   - [ ] Dynamic/Fluid name badges proposal
 * Inactive bugs
   - [ ] Get introduction to WPT team at W3C
-* Security Bug Reports
-  - [ ] Action Plan
 * Mozilla NPM Org
   - [ ] Action plan
-* ESR support Channels
-  - [ ] Action plan
+
 * [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
   - [ ] Action plan
 
