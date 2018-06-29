@@ -2,7 +2,7 @@
 
 _Week of 25 June 2018_
 
-* Feature Flags for Firefox
+* Feature Tracking for Firefox
   - [x] Kickoff meeting prep
   - [x] Kickoff meeting
 * Firefox 63
@@ -15,10 +15,13 @@ _Week of 25 June 2018_
 * Firefox for Android Triage
   - [ ] Find cut-off date for stale bugs
   - [ ] Get Firefox for Android::GekkoView moved to GekkoView::General
-* [ ] :mdaly's request to move inactive bugs in DOM to P5
+* [x] :mdaly's request to move inactive bugs in DOM to P5
   
 ## Immediate Backlog
 
+* Feature Tracking For Firefox
+  - [ ] Draft Process for Eng. Leads
+  - [ ] Settle on scope w.r.t. mobile
 * `backlog` flag
   - [ ] disable in new bugs (July 2nd)
 * Performance Team 
@@ -34,6 +37,8 @@ _Week of 25 June 2018_
   - [ ] Dynamic/Fluid name badges proposal
 * Inactive bugs
   - [ ] Get introduction to WPT team at W3C
+* Security Bug Reports
+  - [ ] Action Plan
 * Mozilla NPM Org
   - [ ] Action plan
 * ESR support Channels
