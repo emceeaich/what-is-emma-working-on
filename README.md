@@ -6,7 +6,7 @@ _Week of 25 June 2018_
   - [ ] Draft Process for Eng. Leads (July 10th)
   - [ ] Settle on scope w.r.t. mobile
 * `backlog` flag
-  - [ ] disable in new bugs (July 2nd)
+  - [x] disable in new bugs (July 2nd)
 * ESR support channels
   - [ ] :mkaply review
 * Firefox for Android Triage
@@ -15,7 +15,7 @@ _Week of 25 June 2018_
 * Security Bug Reports
   - [ ] Evaluate options (email to :mcote)
 * Future of Version field 
-  - [ ] :sylvestre's feedback
+  - [x] :sylvestre's feedback
   
 ## Immediate Backlog
 
