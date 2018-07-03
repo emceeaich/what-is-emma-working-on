@@ -8,12 +8,14 @@ _Week of 25 June 2018_
 * `backlog` flag
   - [x] disable in new bugs (July 2nd)
 * ESR support channels
-  - [ ] :mkaply review
+  - [x] :mkaply review
+  - [ ] Set up meeting with :mkaply to kick off work
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
   - [ ] Move non-GeckoView bugs SV not working on to P5 (pending :shusheel's approval)
 * Security Bug Reports
-  - [ ] Evaluate options (email to :mcote)
+  - [x] Evaluate options (email to :mcote)
+  - [ ] Draft action plain
 * Future of Version field 
   - [x] :sylvestre's feedback
   
