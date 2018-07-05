@@ -2,6 +2,8 @@
 
 _Week of 25 June 2018_
 
+* Crash Reports missing from WebExtensions bugs (https://bugzilla.mozilla.org/show_bug.cgi?id=1473726)
+  - [x] BMO team reviewing
 * Feature Tracking For Firefox
   - [ ] Draft Process for Eng. Leads (July 10th)
   - [ ] Settle on scope w.r.t. mobile
@@ -20,6 +22,12 @@ _Week of 25 June 2018_
   
 ## Immediate Backlog
 
+* DOM queries for Marian Daly
+  - [ ] 1 queue for bugs that have patches that need review 
+  - [ ] 1 queue for bugs that have patches that got a negative review
+  - [ ] 1 queue for bugs that have patches that got a positive review
+* Sponsorship of NodeConfEU
+  - [ ] Ask Sandra Persing
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
   - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
@@ -40,6 +48,7 @@ _Week of 25 June 2018_
   - [ ] Action plan
 * [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
   - [ ] Action plan
+* Follow up with Krishnaprabha Chari and Susy Strubble on contributor activity metrics
 
 ## Ongoing
 
