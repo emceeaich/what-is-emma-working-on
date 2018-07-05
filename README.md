@@ -10,17 +10,19 @@ _Week of 25 June 2018_
 * ESR support channels
   - [x] :mkaply review
   - [ ] Set up meeting with :mkaply to kick off work
-* Firefox for Android Triage
-  - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
-  - [ ] Move non-GeckoView bugs SV not working on to P5 (pending :shusheel's approval)
 * Security Bug Reports
   - [x] Evaluate options (email to :mcote)
   - [ ] Draft action plain
 * Future of Version field 
   - [x] :sylvestre's feedback
+* Firefox for Android Triage
+  - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
   
 ## Immediate Backlog
 
+* Firefox for Android Triage
+  - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
+  - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * Performance Team 
   - [ ] Review metadata documentation
 * Using Machine Learning to categorize Firefox::Untriaged 
@@ -36,7 +38,6 @@ _Week of 25 June 2018_
   - [ ] Get introduction to WPT team at W3C
 * Mozilla NPM Org
   - [ ] Action plan
-
 * [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
   - [ ] Action plan
 
