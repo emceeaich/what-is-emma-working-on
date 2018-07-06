@@ -1,36 +1,34 @@
 # Emma's Public Worklist
 
-_Week of 25 June 2018_
+_Week of 9 July 2018_
 
-* Crash Reports missing from WebExtensions bugs (https://bugzilla.mozilla.org/show_bug.cgi?id=1473726)
-  - [x] BMO team reviewing
 * Feature Tracking For Firefox
   - [ ] Draft Process for Eng. Leads (July 10th)
   - [ ] Settle on scope w.r.t. mobile
-* `backlog` flag
-  - [x] disable in new bugs (July 2nd)
+* DOM queries for Marian Daly
+  - [ ] 1 queue for bugs that have patches that need review 
+  - [ ] 1 queue for bugs that have patches that got a negative review
+  - [ ] 1 queue for bugs that have patches that got a positive review
+* Disable old tracking flags (July 11th)
+  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473002
+  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473001
+* Firefox for Android Triage
+  - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * ESR support channels
-  - [x] :mkaply review
   - [ ] Set up meeting with :mkaply to kick off work
-* Security Bug Reports
-  - [x] Evaluate options (email to :mcote)
-  - [ ] Draft action plain
-* Future of Version field 
-  - [x] :sylvestre's feedback
 * Firefox for Android Triage
   - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
   
 ## Immediate Backlog
 
-* DOM queries for Marian Daly
-  - [ ] 1 queue for bugs that have patches that need review 
-  - [ ] 1 queue for bugs that have patches that got a negative review
-  - [ ] 1 queue for bugs that have patches that got a positive review
 * Sponsorship of NodeConfEU
   - [ ] Ask Sandra Persing
+* Security Bug Reports
+  - [ ] Draft action plain
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
   - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
+* Future of Target Milestone field
 * Performance Team 
   - [ ] Review metadata documentation
 * Using Machine Learning to categorize Firefox::Untriaged 
@@ -42,18 +40,20 @@ _Week of 25 June 2018_
 * MozFest
   - [ ] Adventures in renaming workshop proposal
   - [ ] Dynamic/Fluid name badges proposal
+* [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
+  - [ ] Action plan
+* Follow up with Krishnaprabha Chari and Susy Strubble on contributor activity metrics
+* Postmortem on https://bugzilla.mozilla.org/show_bug.cgi?id=1469785
 * Inactive bugs
   - [ ] Get introduction to WPT team at W3C
 * Mozilla NPM Org
   - [ ] Action plan
-* [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
-  - [ ] Action plan
-* Follow up with Krishnaprabha Chari and Susy Strubble on contributor activity metrics
 
 ## Ongoing
 
 * Mentees
 * Closing intermittent oranges
+* Project reporting
 * BMO admin tasks
 
 ## Useful Documents
