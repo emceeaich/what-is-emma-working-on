@@ -16,9 +16,7 @@ _Week of 9 July 2018_
   - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * ESR support channels
   - [ ] Set up meeting with :mkaply to kick off work
-* Firefox for Android Triage
-  - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
-  
+
 ## Immediate Backlog
 
 * Sponsorship of NodeConfEU
