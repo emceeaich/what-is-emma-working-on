@@ -1,3 +1,19 @@
+# Archive
+
+_Week of 2 July 2018_
+
+* Crash Reports missing from WebExtensions bugs (https://bugzilla.mozilla.org/show_bug.cgi?id=1473726)
+  - [x] BMO team reviewing
+  - [x] Fix landed
+* `backlog` flag
+  - [x] disable in new bugs (July 2nd)
+* ESR support channels
+  - [x] :mkaply review
+* Security Bug Reports
+  - [x] Evaluate options (email to :mcote)
+* Future of Version field 
+  - [x] :sylvestre's feedback
+
 _Week of 25 June 2018_
 
 * Feature Tracking for Firefox
