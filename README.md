@@ -5,22 +5,30 @@ _Week of 9 July 2018_
 * Feature Tracking For Firefox
   - [ ] Draft Process for Eng. Leads (July 10th)
   - [ ] Settle on scope w.r.t. mobile
+  - [ ] Get bug statuses for features from RelMan
+  - Review Release Console roadmap and backlog
+    - [ ] ID bugs we should track for status
+    - [ ] ID bugs we need to create to track for status
 * DOM queries for Marian Daly
-  - [ ] 1 queue for bugs that have patches that need review 
-  - [ ] 1 queue for bugs that have patches that got a negative review
-  - [ ] 1 queue for bugs that have patches that got a positive review
+  - [x] 1 queue for bugs that have patches that need review (https://mzl.la/2u7k5KP)
+  - [x] 1 queue for bugs that have patches that got a negative review (https://mzl.la/2L70oZK)
+  - [x] 1 queue for bugs that have patches that got a positive review (https://mzl.la/2ur8VzZ)
+  - Assumptions
+    - Unresolved bugs only
 * Disable old tracking flags (July 11th)
   - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473002
   - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473001
 * Firefox for Android Triage
   - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * ESR support channels
-  - [ ] Set up meeting with :mkaply to kick off work
-
+  - [x] Set up meeting with :mkaply to kick off work
+  - [ ] Kick off meeting
+* Sponsorship of NodeConfEU
+  - [x] Ask Sandra Persing
+  - [ ] NodeConfEU answers questions
+  
 ## Immediate Backlog
 
-* Sponsorship of NodeConfEU
-  - [ ] Ask Sandra Persing
 * Security Bug Reports
   - [ ] Draft action plain
 * Firefox for Android Triage
