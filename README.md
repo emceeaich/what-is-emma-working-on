@@ -15,9 +15,8 @@ _Week of 9 July 2018_
   - [x] 1 queue for bugs that have patches that got a positive review (https://mzl.la/2ur8VzZ)
   - Assumptions
     - Unresolved bugs only
-* Disable old tracking flags (July 11th)
-  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473002
-  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473001
+* ASan Nightly Project
+  - [ ] Install on Linux laptop
 * Firefox for Android Triage
   - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * ESR support channels
@@ -26,7 +25,10 @@ _Week of 9 July 2018_
 * Sponsorship of NodeConfEU
   - [x] Ask Sandra Persing
   - [ ] NodeConfEU answers questions
-  
+* Disable old tracking flags (July 11th)
+  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473002
+  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473001
+
 ## Immediate Backlog
 
 * Security Bug Reports
