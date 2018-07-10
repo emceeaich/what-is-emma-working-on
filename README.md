@@ -3,7 +3,8 @@
 _Week of 9 July 2018_
 
 * Feature Tracking For Firefox
-  - [ ] Draft Process for Eng. Leads (July 10th)
+  - [x] Draft Process for Eng. Leads (July 10th)
+  - [ ] Distribute to leads for feedback (:ehsan)
   - [ ] Settle on scope w.r.t. mobile
   - [ ] Get bug statuses for features from RelMan
   - Review Release Console roadmap and backlog
@@ -16,12 +17,13 @@ _Week of 9 July 2018_
   - Assumptions
     - Unresolved bugs only
 * ASan Nightly Project
-  - [ ] Install on Linux laptop
+  - [x] Install on Linux laptop
 * Firefox for Android Triage
   - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * ESR support channels
   - [x] Set up meeting with :mkaply to kick off work
-  - [ ] Kick off meeting
+  - [x] Kick off meeting
+  - [ ] Set up products and groups to test on bugzilla-dev
 * Sponsorship of NodeConfEU
   - [x] Ask Sandra Persing
   - [ ] NodeConfEU answers questions
