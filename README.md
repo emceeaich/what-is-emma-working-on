@@ -23,7 +23,7 @@ _Week of 9 July 2018_
 * ESR support channels
   - [x] Set up meeting with :mkaply to kick off work
   - [x] Kick off meeting
-  - [ ] Set up products and groups to test on bugzilla-dev
+  - [x] Set up products and groups to test on bugzilla-dev
 * Sponsorship of NodeConfEU
   - [x] Ask Sandra Persing
   - [ ] NodeConfEU answers questions
