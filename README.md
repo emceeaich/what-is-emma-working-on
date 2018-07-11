@@ -28,8 +28,8 @@ _Week of 9 July 2018_
   - [x] Ask Sandra Persing
   - [ ] NodeConfEU answers questions
 * Disable old tracking flags (July 11th)
-  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473002
-  - [ ] https://bugzilla.mozilla.org/show_bug.cgi?id=1473001
+  - [x] https://bugzilla.mozilla.org/show_bug.cgi?id=1473002
+  - [x] https://bugzilla.mozilla.org/show_bug.cgi?id=1473001
 
 ## Immediate Backlog
 
