@@ -19,7 +19,7 @@ _Week of 9 July 2018_
 * ASan Nightly Project
   - [x] Install on Linux laptop
 * Firefox for Android Triage
-  - [ ] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
+  - [x] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * ESR support channels
   - [x] Set up meeting with :mkaply to kick off work
   - [x] Kick off meeting
