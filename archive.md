@@ -1,5 +1,31 @@
 # Archive
 
+_Week of 9 July 2018_
+
+* Feature Tracking For Firefox
+  - [x] Draft Process for Eng. Leads (July 10th)
+  - [x] Distribute to leads for feedback (:ehsan)
+  - [x] Settle on scope w.r.t. mobile
+* DOM queries for Marian Daly
+  - [x] 1 queue for bugs that have patches that need review (https://mzl.la/2u7k5KP)
+  - [x] 1 queue for bugs that have patches that got a negative review (https://mzl.la/2L70oZK)
+  - [x] 1 queue for bugs that have patches that got a positive review (https://mzl.la/2ur8VzZ)
+  - Assumptions
+    - Unresolved bugs only
+* ASan Nightly Project
+  - [x] Install on Linux laptop
+* Firefox for Android Triage
+  - [x] Send notice about non-GeckoView bugs SV not working on moving to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
+* ESR support channels
+  - [x] Set up meeting with :mkaply to kick off work
+  - [x] Kick off meeting
+  - [x] Set up products and groups to test on bugzilla-dev
+* Sponsorship of NodeConfEU
+  - [x] Ask Sandra Persing
+* Disable old tracking flags (July 11th)
+  - [x] https://bugzilla.mozilla.org/show_bug.cgi?id=1473002
+  - [x] https://bugzilla.mozilla.org/show_bug.cgi?id=1473001
+  
 _Week of 2 July 2018_
 
 * Crash Reports missing from WebExtensions bugs (https://bugzilla.mozilla.org/show_bug.cgi?id=1473726)
