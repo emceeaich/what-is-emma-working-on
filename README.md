@@ -6,7 +6,10 @@ _Week of 16 July 2018_
   - [ ] Get bug statuses for features from RelMan
   - [ ] Incorporate Firefox Engineering Directors feedback on Process document and send back for review
   - [ ] Write examples of process for RelMan
-  - [ ] Follow up with Kris Maglione on https://mail.mozilla.org/pipermail/firefox-dev/2018-July/006651.html
+  - [ ] Write introduction for process
+  - [x] Follow up with Kris Maglione on https://mail.mozilla.org/pipermail/firefox-dev/2018-July/006651.html
+  - [ ] Find out status of self-serve metrics
+  - [ ] What is status of "critical" FFx product metrics
 * Sponsorship of NodeConfEU
   - [ ] NodeConfEU answers questions
 * Security Bug Reports
