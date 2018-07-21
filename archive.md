@@ -1,5 +1,24 @@
 # Archive
 
+_Week of 16 July 2018_
+
+* Feature Tracking For Firefox
+  - [ ] Get bug statuses for features from RelMan
+  - [x] Incorporate Firefox Engineering Directors feedback on Process document ~and send back for review~
+  - [ ] Write examples of process for RelMan
+  - [x] Write introduction for process
+  - [x] Follow up with Kris Maglione on https://mail.mozilla.org/pipermail/firefox-dev/2018-July/006651.html
+  - [x] Find out status of self-serve metrics
+  - [x] What is status of "critical" FFx product metrics
+* Sponsorship of NodeConfEU
+  - [ ] NodeConfEU answers questions
+* Security Bug Reports
+  - [x] Draft action plan
+  - [ ] Incorporate feedback
+* Nags to create
+  - [x] Regressions without decisions
+  - [x] New bugs by non-staff, non-bot users that had a priority set when filed 
+
 _Week of 9 July 2018_
 
 * Feature Tracking For Firefox
