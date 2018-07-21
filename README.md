@@ -1,29 +1,30 @@
 # Emma's Public Worklist
 
-_Week of 16 July 2018_
+_Week of 23 July 2018_
 
-* Feature Tracking For Firefox
-  - [ ] Get bug statuses for features from RelMan
-  - [ ] Incorporate Firefox Engineering Directors feedback on Process document and send back for review
-  - [ ] Write examples of process for RelMan
-  - [ ] Write introduction for process
-  - [x] Follow up with Kris Maglione on https://mail.mozilla.org/pipermail/firefox-dev/2018-July/006651.html
-  - [ ] Find out status of self-serve metrics
-  - [ ] What is status of "critical" FFx product metrics
-* Sponsorship of NodeConfEU
-  - [ ] NodeConfEU answers questions
+* Feature Roll-out for Firefox
+  - [ ] Meet with RelMan to discuss which features for 63 make sense to apply the feature roll-out checklist to
+  - [ ] Turn feature roll-out checklist into an appendix
+  - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
+  - [ ] Ask Delivery Console team about simple roll-out recipe creation
+    * _Start at X%, increase by Y% every N% days as long as Z stays in some range_
+  - [ ] Add appendix to process document
+  - [ ] TLS roll-out retrospective
+* Firefox for Android Triage
+  - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * Security Bug Reports
-  - [x] Draft action plan
-  - [ ] Incorporate feedback
-* Nags to create
-  - [x] Regressions without decisions
-  - [x] New bugs by non-staff, non-bot users that had a priority set when filed 
+  - [ ] Incorporate feedback into action plan
+* Sponsorship of NodeConfEU
+  - [ ] Nudge my contact there
+  - [ ] NodeConfEU answers questions
+* [ ] Blog post on Iodide/Glitch mashup
 
 ## Immediate Backlog
 
+* Feature roll-out for Firefox
+  - [ ] 2nd draft of Process (due August 1st)
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
-  - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
 * Future of Target Milestone field
 * Performance Team 
   - [ ] Review metadata documentation
