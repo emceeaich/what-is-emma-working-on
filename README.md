@@ -18,6 +18,7 @@ _Week of 23 July 2018_
   - [ ] Nudge my contact there
   - [ ] NodeConfEU answers questions
 * [ ] Blog post on Iodide/Glitch mashup
+* [ ] Set up interviews for Program Tracking
 
 ## Immediate Backlog
 
