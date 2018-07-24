@@ -3,7 +3,7 @@
 _Week of 23 July 2018_
 
 * Feature Roll-out for Firefox
-  - [ ] Meet with RelMan to discuss which features for 63 make sense to apply the feature roll-out checklist to
+  - [x] Meet with RelMan to discuss which features for 63 make sense to apply the feature roll-out checklist to
   - [ ] Turn feature roll-out checklist into an appendix
   - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
   - [ ] Ask Delivery Console team about simple roll-out recipe creation
@@ -18,7 +18,7 @@ _Week of 23 July 2018_
   - [ ] Nudge my contact there
   - [ ] NodeConfEU answers questions
 * [ ] Blog post on Iodide/Glitch mashup
-* [ ] Set up interviews for Program Tracking
+* [x] Set up interviews for Program Tracking
 
 ## Immediate Backlog
 
