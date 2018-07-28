@@ -1,31 +1,23 @@
 # Emma's Public Worklist
 
-_Week of 23 July 2018_
+_Week of 30 July 2018_
 
-* Feature Roll-out for Firefox
-  - [x] Meet with RelMan to discuss which features for 63 make sense to apply the feature roll-out checklist to
-    - [x] Ask about Out of Process Web Extensions on Linux
-  - [x] Ask Nihan about Breach Alerts as a candidate for 62
-  - [ ] Turn feature roll-out checklist into an appendix
-  - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
-  - [x] Ask Delivery Console team about simple roll-out recipe creation
-    * _Start at X%, increase by Y% every N% days as long as Z stays in some range_
-  - [ ] Add appendix to process document
+* Feature Rollout for Firefox
+ - [ ] Distribute V2 of policy
+ - [ ] TLS Rollout Retrospective
+ - [ ] Follow up with Nihan on landing pref and add-on for Breach Alerts
+ - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
 * Firefox for Android Triage
   - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
-* Security Bug Reports
-  - [x] Incorporate feedback into action plan
+    - Delayed because of BMO errors
 * Sponsorship of NodeConfEU
   - [ ] Nudge my contact there
   - [ ] NodeConfEU answers questions
 * [ ] Blog post on Iodide/Glitch mashup
-* [x] Set up interviews for Program Tracking
+* [ ] Complete interviews for Program Tracking
 
 ## Immediate Backlog
 
-* Feature roll-out for Firefox
-  - [ ] TLS roll-out retrospective
-  - [ ] 2nd draft of Process (due August 1st)
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
 * Future of Target Milestone field
