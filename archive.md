@@ -1,4 +1,18 @@
 # Archive
+    
+_Week of 23 July 2018_
+
+* Feature Rollout for Firefox
+  - [x] Meet with RelMan to discuss which features for 63 make sense to apply the feature roll-out checklist to
+    - [x] Ask about Out of Process Web Extensions on Linux
+  - [x] Ask Nihan about Breach Alerts as a candidate for 62
+  - [x] Turn feature roll-out checklist into an appendix
+  - [x] Ask Delivery Console team about simple roll-out recipe creation
+    * _Start at X%, increase by Y% every N% days as long as Z stays in some range_
+  - [x] Add appendix to process document
+* Security Bug Reports
+  - [x] Incorporate feedback into action plan
+* [x] Set up interviews for Program Tracking
 
 _Week of 16 July 2018_
 
