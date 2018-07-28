@@ -3,10 +3,10 @@
 _Week of 30 July 2018_
 
 * Feature Rollout for Firefox
- - [ ] Distribute V2 of policy
- - [ ] TLS Rollout Retrospective
- - [ ] Follow up with Nihan on landing pref and add-on for Breach Alerts
- - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
+  - [ ] Distribute V2 of policy
+  - [ ] TLS Rollout Retrospective
+  - [ ] Follow up with Nihan on landing pref and add-on for Breach Alerts
+  - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
 * Firefox for Android Triage
   - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
     - Delayed because of BMO errors
