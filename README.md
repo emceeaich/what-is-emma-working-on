@@ -5,7 +5,7 @@ _Week of 30 July 2018_
 * Feature Rollout for Firefox
   - [ ] Distribute V2 of policy
   - [ ] TLS Rollout Retrospective
-  - [ ] Follow up with Nihan on landing pref and add-on for Breach Alerts
+  - [x] Follow up with Nihan on landing pref and add-on for Breach Alerts
   - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
 * Firefox for Android Triage
   - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
@@ -15,6 +15,9 @@ _Week of 30 July 2018_
   - [ ] NodeConfEU answers questions
 * [ ] Blog post on Iodide/Glitch mashup
 * [ ] Complete interviews for Program Tracking
+* MozFest
+  - [x] [Adventures in renaming workshop proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/471)
+  - [x] [Dynamic/Fluid name badges proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/467)
 
 ## Immediate Backlog
 
@@ -29,9 +32,6 @@ _Week of 30 July 2018_
 * Are We Triaged Yet
   - [ ] [P1 affecting or may affect query](https://github.com/emceeaich/are-we-triaged-yet/issues/38)
   - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
-* MozFest
-  - [ ] Adventures in renaming workshop proposal
-  - [ ] Dynamic/Fluid name badges proposal
 * [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
   - [ ] Action plan
 * Follow up with Krishnaprabha Chari and Susy Strubble on contributor activity metrics
