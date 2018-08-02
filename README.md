@@ -4,7 +4,7 @@ _Week of 30 July 2018_
 
 * Feature Rollout for Firefox
   - [ ] Distribute V2 of policy
-  - [ ] TLS Rollout Retrospective
+  - [x] TLS Rollout Retrospective
   - [x] Follow up with Nihan on landing pref and add-on for Breach Alerts
   - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
 * Firefox for Android Triage
@@ -21,6 +21,7 @@ _Week of 30 July 2018_
 
 ## Immediate Backlog
 
+* Definition of Regression
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
 * Future of Target Milestone field
