@@ -1,4 +1,18 @@
 # Archive
+
+_Week of 30 July 2018_
+
+* Feature Rollout for Firefox
+  - [x] TLS Rollout Retrospective
+  - [x] Follow up with Nihan on landing pref and add-on for Breach Alerts
+* Firefox for Android Triage
+  - [x] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
+* MozFest
+  - [x] [Adventures in renaming workshop proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/471)
+  - [x] [Dynamic/Fluid name badges proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/467)
+* Community Management
+  - [x] Escalation Matrix for BMO Comments
+  - [x] Reviewed MOC Escalation Plan
     
 _Week of 23 July 2018_
 
@@ -8,7 +22,6 @@ _Week of 23 July 2018_
   - [x] Ask Nihan about Breach Alerts as a candidate for 62
   - [x] Turn feature roll-out checklist into an appendix
   - [x] Ask Delivery Console team about simple roll-out recipe creation
-    * _Start at X%, increase by Y% every N% days as long as Z stays in some range_
   - [x] Add appendix to process document
 * Security Bug Reports
   - [x] Incorporate feedback into action plan
