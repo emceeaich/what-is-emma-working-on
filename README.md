@@ -1,27 +1,28 @@
 # Emma's Public Worklist
 
-_Week of 30 July 2018_
+_Week of 6 August 2018_
 
 * Feature Rollout for Firefox
-  - [ ] Distribute V2 of policy
-  - [x] TLS Rollout Retrospective
-  - [x] Follow up with Nihan on landing pref and add-on for Breach Alerts
+  - [ ] Work on V2 of policy
+  - [ ] Add sign-offs 
   - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
-* Firefox for Android Triage
-  - [ ] Move non-GeckoView bugs SV not working on to P5 (https://bugzilla.mozilla.org/show_bug.cgi?id=1473195)
-    - Delayed because of BMO errors
+* Definition of Regression
+  - [ ] Consensus from PI and RelMan
+  - [ ] Update Triage Docs 
+* Stalled Keyword
+  - [ ] Consensus from Triagers and Security
+  - [ ] Create Keyword
+  - [ ] Update Triage Docs
+* [ ] Blog post on Iodide/Glitch mashup
+* [ ] Complete interviews for Program Tracking
 * Sponsorship of NodeConfEU
   - [ ] Nudge my contact there
   - [ ] NodeConfEU answers questions
-* [ ] Blog post on Iodide/Glitch mashup
-* [ ] Complete interviews for Program Tracking
-* MozFest
-  - [x] [Adventures in renaming workshop proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/471)
-  - [x] [Dynamic/Fluid name badges proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/467)
 
 ## Immediate Backlog
 
 * Definition of Regression
+* Stalled Keyword
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
 * Future of Target Milestone field
