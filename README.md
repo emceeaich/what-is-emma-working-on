@@ -7,6 +7,7 @@ _Week of 6 August 2018_
   - [ ] Add sign-offs 
   - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
 * Definition of Regression
+  - [x] Talk to fuzzer teams
   - [ ] Consensus from PI and RelMan
   - [ ] Update Triage Docs 
 * Stalled Keyword
@@ -15,6 +16,7 @@ _Week of 6 August 2018_
   - [ ] Update Triage Docs
 * [ ] Blog post on Iodide/Glitch mashup
 * [ ] Complete interviews for Program Tracking
+* [x] Get PI and DevTools talking about WebRewind and Intermittent Test Errors
 * Sponsorship of NodeConfEU
   - [ ] Nudge my contact there
   - [ ] NodeConfEU answers questions
