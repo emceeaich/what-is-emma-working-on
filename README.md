@@ -4,8 +4,10 @@ _Week of 6 August 2018_
 
 * Feature Rollout for Firefox
   - [ ] Work on V2 of policy
-  - [ ] Add sign-offs 
-  - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
+  - [ ] Add sign-offs and confirm who is signing off
+  - [x] Schedule meeting on Data Pipeline and Data Science requirements
+* Bugs in WebExtensions::Untriaged
+  - [ ] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
 * Definition of Regression
   - [x] Talk to fuzzer teams
   - [ ] Consensus from PI and RelMan
@@ -24,7 +26,7 @@ _Week of 6 August 2018_
 ## Immediate Backlog
 
 * Definition of Regression
-* Stalled Keyword
+  - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
 * Future of Target Milestone field
