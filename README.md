@@ -1,31 +1,22 @@
 # Emma's Public Worklist
 
-_Week of 6 August 2018_
+_Week of 13 August 2018_ (Short Week, PTO)
 
 * Feature Rollout for Firefox
   - [ ] Work on V2 of policy
-  - [x] Add sign-offs and confirm who is signing off
-  - [x] Schedule meeting on Data Pipeline and Data Science requirements
-  - [ ] Schedule meeting with Normandy and RelMan
+  - [ ] Meeting with Data Program Stakeholders
+  - [ ] Meeting with Normandy and RelMan
 * Bugs in WebExtensions::Untriaged
   - [ ] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
-* Definition of Regression
-  - [x] Talk to fuzzer teams
-* Stalled Keyword
-  - [x] Ask for feedback on 'stalled' keyword and change to triage
-* [ ] Blog post on Iodide/Glitch mashup
-* [x] Get PI and DevTools talking about WebRewind and Intermittent Test Errors
-* Sponsorship of NodeConfEU
-  - [ ] Nudge my contact there
-  - [ ] NodeConfEU answers questions
+* [ ] Complete interviews for Program Tracking
+* [ ] Templates for abuse responses in BMO
 
 ## Immediate Backlog
 
-* Feature Rollout for Firefox
-  - [ ] Meeting with Data Program Stakeholders
-  - [ ] Meeting with Normandy and RelMan
-* [ ] Write process for getting a review user set up in Bugzilla
-* [ ] Complete interviews for Program Tracking
+* [ ] Blog post on Iodide/Glitch mashup
+* Sponsorship of NodeConfEU
+  - [ ] Nudge my contact there
+  - [ ] NodeConfEU answers questions
 * Definition of Regression
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
