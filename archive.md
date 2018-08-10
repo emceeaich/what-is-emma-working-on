@@ -11,7 +11,7 @@ _Week of 6 August 2018_
 * Stalled Keyword
   - [x] Ask for feedback on 'stalled' keyword and change to triage
 * [x] Get PI and DevTools talking about WebRewind and Intermittent Test Errors
-* [x] Write process for getting a review user set up in Bugzilla
+* [x] Write [process for setting up a shared review queue in Bugzilla](https://github.com/mozilla/bug-handling/blob/master/process/shared-bug-queues.md)
 
 _Week of 30 July 2018_
 
