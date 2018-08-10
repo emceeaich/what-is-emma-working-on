@@ -4,20 +4,16 @@ _Week of 6 August 2018_
 
 * Feature Rollout for Firefox
   - [ ] Work on V2 of policy
-  - [ ] Add sign-offs and confirm who is signing off
+  - [x] Add sign-offs and confirm who is signing off
   - [x] Schedule meeting on Data Pipeline and Data Science requirements
+  - [ ] Schedule meeting with Normandy and RelMan
 * Bugs in WebExtensions::Untriaged
   - [ ] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
 * Definition of Regression
   - [x] Talk to fuzzer teams
-  - [ ] Consensus from PI and RelMan
-  - [ ] Update Triage Docs 
 * Stalled Keyword
-  - [ ] Consensus from Triagers and Security
-  - [ ] Create Keyword
-  - [ ] Update Triage Docs
+  - [x] Ask for feedback on 'stalled' keyword and change to triage
 * [ ] Blog post on Iodide/Glitch mashup
-* [ ] Complete interviews for Program Tracking
 * [x] Get PI and DevTools talking about WebRewind and Intermittent Test Errors
 * Sponsorship of NodeConfEU
   - [ ] Nudge my contact there
@@ -25,10 +21,21 @@ _Week of 6 August 2018_
 
 ## Immediate Backlog
 
+* Feature Rollout for Firefox
+  - [ ] Meeting with Data Program Stakeholders
+  - [ ] Meeting with Normandy and RelMan
+* [ ] Write process for getting a review user set up in Bugzilla
+* [ ] Complete interviews for Program Tracking
 * Definition of Regression
-  - [ ] Get timelines for Self-service Telemetry and Core Product Metrics and decide if we need a contingency
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
+* Stalled Keyword
+  - [ ] Create Keyword
+  - [ ] Update Triage Docs
+  - [ ] Update Triage Query
+* Definition of Regression
+  - [ ] Consensus from Security and RelMan
+  - [ ] Update Triage Docs 
 * Future of Target Milestone field
 * Performance Team 
   - [ ] Review metadata documentation
