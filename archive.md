@@ -1,5 +1,18 @@
 # Archive
 
+_Week of 6 August 2018_
+
+* Feature Rollout for Firefox
+  - [x] Add sign-offs and confirm who is signing off
+  - [x] Schedule meeting on Data Pipeline and Data Science requirements
+  - [x] Schedule meeting with Normandy and RelMan
+* Definition of Regression
+  - [x] Talk to fuzzer teams
+* Stalled Keyword
+  - [x] Ask for feedback on 'stalled' keyword and change to triage
+* [x] Get PI and DevTools talking about WebRewind and Intermittent Test Errors
+* [x] Write process for getting a review user set up in Bugzilla
+
 _Week of 30 July 2018_
 
 * Feature Rollout for Firefox
