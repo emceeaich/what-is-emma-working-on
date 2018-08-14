@@ -4,15 +4,18 @@ _Week of 13 August 2018_ (Short Week, PTO)
 
 * Feature Rollout for Firefox
   - [ ] Work on V2 of policy
-  - [ ] Meeting with Data Program Stakeholders
-  - [ ] Meeting with Normandy and RelMan
+  - [x] Meeting with Data Program Stakeholders
+  - [x] Meeting with Normandy and RelMan
 * Bugs in WebExtensions::Untriaged
   - [ ] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
-* [ ] Complete interviews for Program Tracking
 * [ ] Templates for abuse responses in BMO
 
 ## Immediate Backlog
-
+* [ ] Complete interviews for Program Tracking
+* Stalled Keyword
+  - [ ] Create Keyword
+  - [ ] Update Triage Docs
+  - [ ] Update Triage Query
 * [ ] Blog post on Iodide/Glitch mashup
 * Sponsorship of NodeConfEU
   - [ ] Nudge my contact there
@@ -20,10 +23,6 @@ _Week of 13 August 2018_ (Short Week, PTO)
 * Definition of Regression
 * Firefox for Android Triage
   - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
-* Stalled Keyword
-  - [ ] Create Keyword
-  - [ ] Update Triage Docs
-  - [ ] Update Triage Query
 * Definition of Regression
   - [ ] Consensus from Security and RelMan
   - [ ] Update Triage Docs 
