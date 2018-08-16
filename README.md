@@ -7,7 +7,7 @@ _Week of 13 August 2018_ (Short Week, PTO)
   - [x] Meeting with Data Program Stakeholders
   - [x] Meeting with Normandy and RelMan
 * Bugs in WebExtensions::Untriaged
-  - [ ] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
+  - [x] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
 * [ ] Templates for abuse responses in BMO
 
 ## Immediate Backlog
