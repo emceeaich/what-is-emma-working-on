@@ -11,6 +11,7 @@ _Week of 13 August 2018_ (Short Week, PTO)
 * [ ] Templates for abuse responses in BMO
 
 ## Immediate Backlog
+* [ ] Documention to accompany "Bug Love" video
 * [ ] Complete interviews for Program Tracking
 * Stalled Keyword
   - [ ] Create Keyword
