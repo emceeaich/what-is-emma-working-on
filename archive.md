@@ -1,5 +1,14 @@
 # Archive
 
+_Week of 13 August 2018_ (Short Week, PTO)
+
+* Feature Rollout for Firefox
+  - [x] Meeting with Data Program Stakeholders
+  - [x] Meeting with Normandy and RelMan
+* Bugs in WebExtensions::Untriaged
+  - [x] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
+* [x] Templates for abuse responses in BMO
+
 _Week of 6 August 2018_
 
 * Feature Rollout for Firefox
