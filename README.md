@@ -1,29 +1,28 @@
 # Emma's Public Worklist
 
-_Week of 13 August 2018_ (Short Week, PTO)
+_Week of 27 August 2018_
 
 * Feature Rollout for Firefox
-  - [ ] Work on V2 of policy
-  - [x] Meeting with Data Program Stakeholders
-  - [x] Meeting with Normandy and RelMan
-* Bugs in WebExtensions::Untriaged
-  - [x] Move bugs in https://mzl.la/2Mew1V2 to WebExtensions::General
-* [ ] Templates for abuse responses in BMO
-
+  - [ ] Extract short term policy
+* Stalled Keyword
+  - [x] Create Keyword
+  - [x] Update Triage Docs
+* Regression Definition
+  - [x] Email with updated definition for review
+  - [ ] Update triage documentation
+* Hand off BMO content moderation 
+  - [ ] Update slides with more examples
+* Firefox for Android Triage
+  - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
+  
 ## Immediate Backlog
+
 * [ ] Documention to accompany "Bug Love" video
 * [ ] Complete interviews for Program Tracking
-* Stalled Keyword
-  - [ ] Create Keyword
-  - [ ] Update Triage Docs
-  - [ ] Update Triage Query
 * [ ] Blog post on Iodide/Glitch mashup
 * Sponsorship of NodeConfEU
   - [ ] Nudge my contact there
   - [ ] NodeConfEU answers questions
-* Definition of Regression
-* Firefox for Android Triage
-  - [ ] Get Firefox for Android::GeckoView moved to GeckoView::General (:dylan)
 * Definition of Regression
   - [ ] Consensus from Security and RelMan
   - [ ] Update Triage Docs 
@@ -38,7 +37,6 @@ _Week of 13 August 2018_ (Short Week, PTO)
   - [ ] [Consolidate version specific queries](https://github.com/emceeaich/are-we-triaged-yet/issues/43)
 * [Regressed-by field in Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1461492)
   - [ ] Action plan
-* Follow up with Krishnaprabha Chari and Susy Strubble on contributor activity metrics
 * Postmortem on https://bugzilla.mozilla.org/show_bug.cgi?id=1469785
 * Inactive bugs
   - [ ] Get introduction to WPT team at W3C
@@ -47,7 +45,6 @@ _Week of 13 August 2018_ (Short Week, PTO)
 
 ## Ongoing
 
-* Mentees
 * Closing intermittent oranges
 * Project reporting
 * BMO admin tasks
